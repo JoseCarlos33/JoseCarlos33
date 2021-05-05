@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="./hi.gif" width="30px">, I'm José Carlos</h1>
+<h1 align="center">Hi dear <img src="./hi.gif" width="30px">, I'm José</h1>
 <h3 align="center">A Mobile Developer in progress <img src="./carregando.gif" width="15px"></h3><br/>
 
 <!--
