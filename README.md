@@ -4,7 +4,8 @@
 <!--
 **JoseCarlos33/JoseCarlos33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning **React Native and TypeScript**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, ReactNative and TypeScript**
 - 📫 How to reach me: josecarlosnoronha33@gmail.com
 - ⚡ Crazy fact: I will change the world for the better. Lets do this!
 
