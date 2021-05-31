@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **React Native and TypeScript**
 - 💬 Ask me about **JavaScript, HTML, CSS, React Native and TypeScript**
-- 📫 How to reach me: josecarlosnoronha33@gmail.com
+- 📫 How to reach me: josecarlosnoronha33@gmail.com or https://www.linkedin.com/in/josecarlosnoronha/
 - ⚡ Crazy fact: I will change the world for the better. Lets do this!
 
