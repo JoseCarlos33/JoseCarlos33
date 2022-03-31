@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
+    <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="50" height="50"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="djangoRest" width="65" height="50"/> 
