@@ -32,5 +32,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://graphql.org/img/og-image.png" alt="graphql" width="130" height="50"/> 
+  </a>
+  
 
 </p>
