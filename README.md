@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://graphql.org/img/og-image.png" alt="graphql" width="100" height="50"/> 
+    <img src="https://graphql.org/img/og-image.png" alt="graphql" width="110" height="50"/> 
   </a>
   
 
