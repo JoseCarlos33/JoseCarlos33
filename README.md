@@ -1,11 +1,11 @@
 <h1 align="center">Hi dear <img src="./hi.gif" height="30px">, I'm José</h1>
-<h3 align="center">A Web and Mobile Developer 🖥️ 📱</h3><br/>
+<h3 align="center">A Mobile and Web Developer 🖥️ 📱</h3><br/>
 
 <!--
 **JoseCarlos33/JoseCarlos33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React Native, React.js, TypeScript, Django and Graphql**
+- 🌱 I’m currently learning **Node.js**
+- 💬 Ask me about **React Native, React.js, TypeScript, Next.js, Django, Graphql**
 - 📫 How to reach me: josecarlosnoronha33@gmail.com or https://www.linkedin.com/in/josecarlosnoronha/
 - ⚡ Crazy fact: I will change the world for the better. Lets do this!
 
