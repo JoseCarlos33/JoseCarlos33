@@ -26,9 +26,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://graphql.org/img/og-image.png" alt="graphql" width="110" height="50"/> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="50" height="50"/>
   </a>
-  
-
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="50" height="50"/>
+  </a>
 </p>
